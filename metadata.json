@@ -1,0 +1,6 @@
+{
+  "name": "EcoShine PH Car Wash",
+  "description": "Eco-friendly car wash and detailing in the Philippines featuring live wash status updates, Philippine Peso booking, customer waiting lounge, loyalty rewards, and admin reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
